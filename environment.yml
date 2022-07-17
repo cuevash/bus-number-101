@@ -17,4 +17,5 @@ dependencies:
   - pandas
   - requests
   - joblib
+  - scikit-learn
   - python>=3.6

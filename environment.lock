@@ -52,8 +52,10 @@ dependencies:
   - jupyterlab_widgets=1.0.0=pyhd3eb1b0_1
   - libcxx=12.0.0=h2f01273_0
   - libffi=3.3=hb1e8313_2
+  - libgfortran=3.0.1=h93005f0_2
   - libpng=1.6.37=ha441bb4_0
   - libsodium=1.0.18=h1de35cc_0
+  - llvm-openmp=12.0.0=h0dcd299_1
   - markupsafe=2.1.1=py39hca72f7f_0
   - matplotlib-inline=0.1.2=pyhd3eb1b0_2
   - mistune=0.8.4=py39h9ed2024_1000
@@ -106,6 +108,8 @@ dependencies:
   - qtpy=2.0.1=pyhd3eb1b0_0
   - readline=8.1.2=hca72f7f_1
   - requests=2.28.1=py39hecd8cb5_0
+  - scikit-learn=1.0.2=py39hae1ba45_1
+  - scipy=1.7.3=py39h8c7af03_0
   - send2trash=1.8.0=pyhd3eb1b0_1
   - setuptools=61.2.0=py39hecd8cb5_0
   - sip=4.19.13=py39h23ab428_0
@@ -123,6 +127,7 @@ dependencies:
   - stack_data=0.2.0=pyhd3eb1b0_0
   - terminado=0.13.1=py39hecd8cb5_0
   - testpath=0.6.0=py39hecd8cb5_0
+  - threadpoolctl=2.2.0=pyh0d69192_0
   - tk=8.6.12=h5d9f67b_0
   - toml=0.10.2=pyhd3eb1b0_0
   - tomli=2.0.1=py39hecd8cb5_0
